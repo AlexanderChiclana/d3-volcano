@@ -1,0 +1,23 @@
+@import '~bootstrap/scss/bootstrap';
+
+path {
+  fill:forestgreen;
+  stroke-width: 1px;
+  z-index: 1;
+}
+
+#map-container{
+  background-color: black;
+}
+
+.sphere{
+  fill: lightblue;
+}
+
+.volcano-dot{
+  z-index: 5;
+}
+
+circle:hover{
+  fill: black;
+}
