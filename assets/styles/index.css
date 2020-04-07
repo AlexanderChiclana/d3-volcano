@@ -2,7 +2,7 @@
 
 path {
   fill:forestgreen;
-  stroke-width: 1px;
+  stroke-width: 2px;
   z-index: 1;
 }
 
@@ -21,3 +21,14 @@ path {
 circle:hover{
   fill: black;
 }
+
+.circle{
+  opacity: .1;
+}
+
+.fade {
+  opacity: 1;
+  transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out;
+  }
