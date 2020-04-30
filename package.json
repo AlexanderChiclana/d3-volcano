@@ -11,7 +11,7 @@
     "bootstrap": "^4.1.2",
     "d3": "^5.15.1",
     "d3-simple-slider": "^1.5.5",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.14.3",
     "topojson": "^3.0.2",
     "world-atlas": "^2.0.2"
